@@ -1,8 +1,9 @@
+![InnoVision Banner](banner.jpg)
 # InnoVision 🚀
 
 Welcome to **InnoVision**, a platform dedicated to empowering individuals through skill development and online education. Our mission is to make learning accessible and engaging for everyone, everywhere.
 
-![InnoVision Banner](banner.jpg)
+
 
 ## 📚 About InnoVision
 
