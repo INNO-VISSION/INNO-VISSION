@@ -2,7 +2,7 @@
 
 Welcome to **InnoVision**, a platform dedicated to empowering individuals through skill development and online education. Our mission is to make learning accessible and engaging for everyone, everywhere.
 
-(https://github.com/INNO-VISSION/INNO-VISSION/blob/main/banner.jpg)
+![InnoVision Banner](banner.jpg)
 
 ## 📚 About InnoVision
 
